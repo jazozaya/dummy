@@ -4589,7 +4589,7 @@
 			clock-names = "vii2c", "i2cslow", "host1x";
 			resets = <0x26 0xd0>;
 			reset-names = "vii2c";
-			clock-frequency = <0x61a80>;
+			clock-frequency = <0x186A0>;
 			bus-pullup-supply = <0x47>;
 			avdd_dsi_csi-supply = <0x3b>;
 			linux,phandle = <0xad>;
